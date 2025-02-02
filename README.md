@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Barcos Jaime</h1>
 <h3 align="center">Soy un desarrollador emergente de Ecuador</h3>
 
-- 👨‍💻 All of my projects are available at [https://jaimejba36.github.io/JaimeJBA36/#portfolio](https://jaimejba36.github.io/JaimeJBA36/#)
+- 👨‍💻 All of my projects are available at [https://jaimejba36.github.io/JaimeJBA36/#](https://jaimejba36.github.io/JaimeJBA36/#)
 
 - 📫 How to reach me **jaime.jb2003@gmail.com**
 
