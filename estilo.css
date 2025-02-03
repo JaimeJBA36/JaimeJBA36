@@ -158,11 +158,18 @@ html{
     font-weight: bold;
     border-radius: 5px;
 }
+a {
+    text-decoration: none; 
+    color: inherit; 
+}
+
+a:visited {
+    color: inherit; 
+}
 .sobremi .fila .col .contenedor-intereses{
     display: flex;
     flex-wrap: wrap;
     cursor:pointer;
-
 }
 .sobremi .fila .col .contenedor-intereses .interes{
     width: 100px;
